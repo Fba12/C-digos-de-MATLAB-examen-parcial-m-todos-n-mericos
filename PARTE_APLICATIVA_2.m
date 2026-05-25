@@ -1,8 +1,3 @@
-% =========================================================================
-% EXAMEN MÉTODOS NUMÉRICOS - PARTE B1: INTERPOLACIÓN POLINÓMICA
-% Método Matricial (Vandermonde) e Interpolación de Lagrange
-% =========================================================================
-
 clear; clc; close all;
 
 %% 1. Vectores de Datos Originales (30 puntos)
