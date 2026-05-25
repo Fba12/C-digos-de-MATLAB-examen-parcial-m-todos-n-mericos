@@ -1,9 +1,3 @@
-% =========================================================================
-% EXAMEN MÉTODOS NUMÉRICOS - PARTE C: DERIVACIÓN NUMÉRICA
-% Cálculo de primera y segunda derivada a partir de las ecuaciones analíticas
-% de los Splines Cúbicos y localización del mínimo exacto.
-% =========================================================================
-
 clear; clc; close all;
 
 %% 1. Datos Originales del Experimento (30 puntos)
